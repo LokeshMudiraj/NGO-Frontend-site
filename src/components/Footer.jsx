@@ -7,7 +7,7 @@ const Footer = () => {
 
                 <div className="flex flex-col items-center md:items-start">
                     <img
-                        src="./src/assets/Basti_Ki_Pathshala-_Official_Logo-removebg-preview-removebg-preview.png"
+                        src="/assets/Basti_Ki_Pathshala-_Official_Logo-removebg-preview-removebg-preview.png"
                         className="h-16 w-auto mb-4"
                     />
                     <p className="text-sm max-w-xs">

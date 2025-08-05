@@ -21,12 +21,11 @@ const Hero = () => {
                             Volunteer <ArrowRight size={16} />
                         </Link>
 
-                        <a
-                            href="#donate"
+                        <button
                             className="inline-flex items-center gap-2 border border-yellow-300 text-yellow-300 px-5 py-2 rounded hover:bg-yellow-50/10"
                         >
                             Donate
-                        </a>
+                        </button>
                     </div>
                 </div>
             </div>

@@ -15,7 +15,7 @@ const Navbar = () => {
           className="flex items-center gap-2 sm:gap-3 justify-center sm:justify-start"
         >
           <img
-            src="./src/assets/Basti_Ki_Pathshala-_Official_Logo-removebg-preview-removebg-preview.png"
+            src="/assets/Basti_Ki_Pathshala-_Official_Logo-removebg-preview-removebg-preview.png"
             className="h-10 sm:h-12 w-auto object-contain"
           />
           <span className="text-base sm:text-lg font-semibold text-white">

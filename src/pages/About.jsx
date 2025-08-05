@@ -18,7 +18,7 @@ const About = () => {
                     </div>
                     <div className="overflow-hidden rounded-xl shadow-lg">
                         <img
-                            src="src/assets/image-2048x1306.jpg"
+                            src="/assets/image-2048x1306.jpg"
                             className="w-full h-80 md:h-96 object-cover hover:scale-105 transition-transform duration-300"
                         />
                     </div>
@@ -29,7 +29,7 @@ const About = () => {
                 <div className="max-w-7xl mx-auto px-4 grid md:grid-cols-2 gap-10 items-center">
                     <div className="overflow-hidden rounded-xl shadow-lg order-2 md:order-1">
                         <img
-                            src="src/assets/IMG-20240218-WA0084.jpg"
+                            src="/assets/IMG-20240218-WA0084.jpg"
                             className="w-full h-80 md:h-96 object-cover hover:scale-105 transition-transform duration-300"
                         />
                     </div>
@@ -71,7 +71,7 @@ const About = () => {
                     </div>
                     <div className="overflow-hidden rounded-xl shadow-lg">
                         <img
-                            src="src/assets/IMG_20240126_132350-1.jpg"
+                            src="/assets/IMG_20240126_132350-1.jpg"
                             className="w-full h-80 md:h-96 object-cover hover:scale-105 transition-transform duration-300"
                         />
                     </div>
